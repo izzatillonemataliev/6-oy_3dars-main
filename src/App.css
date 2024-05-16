@@ -60,5 +60,7 @@ a {
   justify-content: center;
 }
 body {
-  background: rgb(238,174,202);
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dto%2Bdo%2Blist&psig=AOvVaw2CuZ9zkyy-cyMJfVRFeYBN&ust=1715965791759000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDW1vPUkoYDFQAAAAAdAAAAABAE);
+  background-repeat: no-repeat;
+  
 }
