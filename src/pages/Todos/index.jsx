@@ -5,7 +5,7 @@ function Todos() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch("https://jsonplaceholder.typicode.com/todos")
+    fetch("https://jsonplaceholder.typicode.com/todos/")
       .then((res) => res.json())
       .then((result) => setData(result.slice(0, 20)));
   }, []);
