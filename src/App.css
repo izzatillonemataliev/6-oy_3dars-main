@@ -60,7 +60,5 @@ a {
   justify-content: center;
 }
 body {
-  background-image: url(../public/images/rasm.png);
-  background-repeat: repeat;
-  background-size: contain;
+  background: rgb(238,174,202);
 }
