@@ -22,7 +22,7 @@
   font-size: 20px;
 }
 .listItem:hover {
-  color: red;
+  opacity: 0.8;
 }
 .btn {
   padding: 8px 24px;
